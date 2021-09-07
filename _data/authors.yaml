@@ -1,6 +1,6 @@
 # Authors
 
-Fast Freddie:
+Billy Rick:
   name        : "Fred Win aka Fast Freddie"
   bio         : "What do you want, jewels? I am a very extravagant man."
   avatar      : "/assets/images/bio-photo-2.jpg"
@@ -15,32 +15,8 @@ Fast Freddie:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/extravagantman"
 
-Big Daddy Adam:
-  name        : "Adam Weatherington aka Big Daddy Adam"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
-      
- TroutWink:
-  name        : "John Winkler aka TroutWink"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
-      
- Spin Man:
-  name        : "John Spinella aka Spin Man"
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
   bio         : "I ordered what?"
   avatar      : "/assets/images/bio-photo.jpg"
   links:
