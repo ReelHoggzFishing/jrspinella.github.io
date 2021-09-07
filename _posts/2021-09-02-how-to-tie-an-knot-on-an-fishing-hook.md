@@ -20,6 +20,8 @@ Hello Hoggerz! This is Fast Freddie to talk to you about tieing a knot on a hook
 5. Pull and Tighten the lines slowly.
 6. Clip the tag end so that only 1/8-inch is left (A standard fingernail clipper is a great tool for making a clean final cut on the tag end).
 
+**Note:** Instead of clipping the tag end to 1/8 inch, you could leave the remaining tag end about 1/4-inch to 3/8-inch long and then touch the very tip of the tag end to the hot end of a lit cigarette (or a just-blown-out match) in order to create a ball on the end of the line, which prevents the tag end from pulling out under stress.
+
 
 To view my full video on our YouTube Channel: [click here](https://www.youtube.com/watch?v=kqFTDsK3Ymw&t=36s)
 
