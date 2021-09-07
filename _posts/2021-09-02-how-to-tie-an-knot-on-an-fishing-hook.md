@@ -1,7 +1,7 @@
 ---
 title: "How to tie an knot on an fishing hook"
 date: 2021-09-02T15:34:30-04:00
-author: Billy Rick
+author: Fast Freddie
 categories:
   - blog
 tags:
