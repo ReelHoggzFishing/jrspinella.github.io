@@ -13,6 +13,14 @@ tags:
 Hello Hoggerz! This is Fast Freddie to talk to you about tieing a knot on a hook. This is one of the most basic things to do when you want to go fishing. Without a line, you can't catch fish. I will go over the basics in tying this knot. For beginners, this is a quick and simple knot for your fishing adventures. For decades, this has been my go-to knot, I call it the "Easy Freddie Knot" You'll be able to tie this in the blindfolded with some practice!
 
 
+1. Run the tag end of the line through the eye of the hook and pull 8–10 inches of line through the hook eye.
+2. Then take the tag end an push it through the eye of the hook again until it make a large loop.
+3. Take the big loop and wrap it over the other line and pull it right back through the hole.
+4. Than pick your hook up and bring it through the same hole.
+5. Pull and Tighten the lines slowly.
+6. Clip the tag end so that only 1/8-inch is left (A standard fingernail clipper is a great tool for making a clean final cut on the tag end).
+
+
 To view my full video on our YouTube Channel: [click here](https://www.youtube.com/watch?v=kqFTDsK3Ymw&t=36s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kqFTDsK3Ymw" title="How to tie an knot on an fishing hook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
