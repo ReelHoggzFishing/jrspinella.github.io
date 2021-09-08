@@ -21,4 +21,5 @@ The name gives it away, and it occasionally gets a bad rap when compared to more
 Spin the hook five or six times, holding both the main line and the tag end, to wrap the tag end around the main line. The tag end should now be threaded through the loop produced above the hook eye. After that, tighten the tag end by passing it back through the wider loop made by passing it through the eye. The enhanced clinch knot or half blood knot are other names for the fisherman's knot. 
 
 Take a look at the picture to get a better understanding:
+</br>
 ![Semantic description of image](/assets/images/2021-09-07_20-02-23.jpg "Image Title")
