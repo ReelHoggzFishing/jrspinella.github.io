@@ -86,7 +86,7 @@ header:
 
 footer:
   links:
-     - label: "Reel Hoggz Fishing on YouTube"
+    - label: "Reel Hoggz Fishing on YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UChclrvntKn_uJeiMVxy5XUw/s"
     - label: "TikTok"
