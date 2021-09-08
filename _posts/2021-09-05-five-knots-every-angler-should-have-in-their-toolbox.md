@@ -1,5 +1,5 @@
 ---
-title: "Five Knots that every angler should have in their toolbox"
+title: "Five Knots every angler should have in their toolbox"
 date: 2021-09-05T15:34:30-04:00
 author: Billy Rick
 categories:
