@@ -80,7 +80,7 @@ Take a look at the picture to get a better understanding:
 <a target="_blank" href="https://kit.co/reelhoggzfishing/fishing-apparel">Click Here  <i class="fab fa-browser">
 </i></a></p>
 
-<p>Follow us on Instagram @ <a target="_blank" href="https://www.instagram.com/reelhoggzfishing/">Click Here  <i class="fab fa-instagram"></i></a></p>
+<p>Follow us on Instagram @ <a target="_blank" href="https://www.instagram.com/reelhoggz/">Click Here  <i class="fab fa-instagram"></i></a></p>
 
 <p>Follow us on TikTok @ <a target="_blank" href="https://www.tiktok.com/@reelhoggzfishing?lang=en">Click Here  <i class="fab fa-tiktok"></i></a></p>
 
