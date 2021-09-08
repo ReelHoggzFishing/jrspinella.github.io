@@ -2,6 +2,7 @@
 title: "7 Ways to Maximize the Use of Your Electric Smoker"
 date: 2021-09-08T15:34:30-04:00
 author: John Spinella
+comments: true
 categories:
   - blog
 tags:
