@@ -11,21 +11,21 @@ header:
 excerpt: >
   Learn about Fishing, Hunting or Smoking meat? New videos every week on YouTube. 
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/fishjump.jpeg
     alt: "customizable"
     title: "Fishing"
     excerpt: "We tech the everyday fisherman about the basics and how to use our experiences to become a better angler"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/photo-1493787039806-2edcbe808750.jpeg
     alt: "fully responsive"
     title: "Hunting/Fly Fishing"
     excerpt: "Talk about the basics in hunting and fly fishing with enaging videos and posts"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/smoke-1377017975dW3.jpeg
     alt: "100% free"
     title: "Smoking Meats"
     excerpt: "Learn how to smoke meats with a smoker"
