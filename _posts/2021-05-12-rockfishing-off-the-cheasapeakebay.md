@@ -13,10 +13,10 @@ tags:
 
 Hey Hoggerz! This is Fast Freddie with Big Daddy Adam. I wanted to share with you all of our trip with made last year on the Rappahannock river for rock fish. It was a cold day but worth it, because as you can see from our pictures, we caught some fish.
 
-![Fred and Adam](/assets/images/IMG_0235.jpg)</br>
-![Guys](/assets/images/IMG_0797.jpg)</br>
-![Fred](/assets/images/IMG_0800.jpg)</br>
-![Fred](/assets/images/IMG_0801.jpg)</br>
+![Fred and Adam](/assets/images/IMG_0235.jpg)<br/>
+![Guys](/assets/images/IMG_0797.jpg)<br/>
+![Fred](/assets/images/IMG_0800.jpg)<br/>
+![Fred](/assets/images/IMG_0801.jpg)<br/>
 
 Enjoy! See you out in the bay.... 
 
