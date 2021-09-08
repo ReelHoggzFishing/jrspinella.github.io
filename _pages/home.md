@@ -18,7 +18,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/photo-1493787039806-2edcbe808750.jpg
+  - image_path: /assets/images/photo-1493787039806-2edcbe808750.jpg
     alt: "fully responsive"
     title: "Hunting/Fly Fishing"
     excerpt: "Talk about the basics in hunting and fly fishing with enaging videos and posts"
