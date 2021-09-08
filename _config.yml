@@ -71,7 +71,7 @@ author:
       url: "https://www.youtube.com/channel/UChclrvntKn_uJeiMVxy5XUw/s"
     - label: "TikTok"
       icon: "fab fa-fw fa-tiktok"
-      url: "https://tiktok.com/reelhoggzfishing"
+      url: "https://www.tiktok.com/@reelhoggzfishing?lang=en"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/reelhoggzfishing"
@@ -86,15 +86,15 @@ header:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+     - label: "Reel Hoggz Fishing on YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UChclrvntKn_uJeiMVxy5XUw/s"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@reelhoggzfishing?lang=en"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/reelhoggzfishing"
 
 defaults:
   # _posts
