@@ -41,6 +41,10 @@ To view my full video on our YouTube Channel: [click here](https://www.youtube.c
 <a target="_blank" href="https://kit.co/jrspinella/fishing-rod-kit">Click Here  <i class="fab fa-browser">
 </i></a></p>
 
+<p>Check out our Apparel for Fishing!
+<a target="_blank" href="https://kit.co/reelhoggzfishing/fishing-apparel">Click Here  <i class="fab fa-browser">
+</i></a></p>
+
 <p>Follow us on Instagram @ <a target="_blank" href="https://www.instagram.com/reelhoggzfishing/">Click Here  <i class="fab fa-instagram"></i></a></p>
 
 <p>Follow us on TikTok @ <a target="_blank" href="https://www.tiktok.com/@reelhoggzfishing?lang=en">Click Here  <i class="fab fa-tiktok"></i></a></p>
