@@ -7,27 +7,26 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>This website is built with the outdoorsman in mind. </p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+To keep informed on all thing fishing, hunting, Fly Fishing or smoking meats, subscribe to Reel Hoggz Fishing YouTube Channel, [click here](https://www.youtube.com/embed/kqFTDsK3Ymw)
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+Check out our Favorite Options for Fishing Line!
+[Click Here](https://kit.co/jrspinella/fishing-line-kit)
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+Check out our Options for Fishing Beginners!
+[Click Here](https://kit.co/jrspinella/fishing-rod-kit)
+
+Follow us on Instagram @ [https://www.instagram.com/reelhoggzfishing/](https://www.instagram.com/reelhoggzfishing/)
+
+Follow us on TikTok @ [https://www.tiktok.com/@reelhoggzfishing?lang=en](https://www.tiktok.com/@reelhoggzfishing?lang=en)
+
+Want to understand your youtube channel better, Check out Tube Buddy - [https://www.tubebuddy.com/reelhoggzfishing](https://www.tubebuddy.com/reelhoggzfishing)
 
 </div>
 </div>
