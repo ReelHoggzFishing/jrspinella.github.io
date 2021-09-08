@@ -1,18 +1,23 @@
 ---
-title: "Charbroil Electric Smoker Product Review"
+title: "How to tie a knot on a fishing hook"
 date: 2021-09-02T15:34:30-04:00
-author: John
+author: Billy Rick
 categories:
   - blog
 tags:
-  - Smoking
-  - Product Reviews
-  - Smoking for Beginners
+  - Fishing Knots
+  - Fishing
+  - Fishing for Beginners
 ---
 
 Hello Hoggerz! This is John to talk to you about tieing a knot on a hook. This is one of the most basic things to do when you want to go fishing. Without a line, you can't catch fish. I will go over the basics in tying this knot. For beginners, this is a quick and simple knot for your fishing adventures. For decades, this has been my go-to knot, I call it the "Easy Freddie Knot" You'll be able to tie this in the blindfolded with some practice!
 
-
+1. Run the tag end of the line through the eye of the hook and pull 8–10 inches of line through the hook eye.
+2. Then take the tag end an push it through the eye of the hook again until it make a large loop.
+3. Take the big loop and wrap it over the other line and pull it right back through the hole.
+4. Then pick your hook up and bring it through the same hole.
+5. Pull and Tighten the lines slowly.
+6. Clip the tag end so that only 1/8-inch is left (A standard fingernail clipper is a great tool for making a clean final cut on the tag end).
 
 **Note:** Instead of clipping the tag end to 1/8 inch, you could leave the remaining tag end about 1/4-inch to 3/8-inch long and then touch the very tip of the tag end to the hot end of a lit cigarette (or a just-blown-out match) in order to create a ball on the end of the line, which prevents the tag end from pulling out under stress.
 
