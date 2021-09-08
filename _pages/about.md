@@ -2,12 +2,41 @@
 title: About Us
 permalink: /about/
 comments: true
+feature_row:
+  - image_path: /assets/images/fishjump.jpg
+    alt: "customizable"
+    title: "Fishing"
+    excerpt: "We tech the everyday fisherman about the basics and how to use our experiences to become a better angler"
+    url: "/tags/#fishing"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/photo-1493787039806-2edcbe808750.jpg
+    alt: "fully responsive"
+    title: "Hunting/Fly Fishing"
+    excerpt: "Talk about the basics in hunting and fly fishing with enaging videos and posts"
+    url: "/tags/#flyfishing"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/smoke-1377017975dW3.jpg
+    alt: "100% free"
+    title: "Smoking Meats"
+    excerpt: "Learn how to smoke meats with a smoker"
+    url: "/tags/#smoking"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with the outdoorsman in mind. </p>
+<p>Welcome to Reel Hoggz Fishing! This website is built with the outdoorsman in mind. We believe in Family, Friends, Fun, and most of all fishing. We are not professional Fishermen but we have been fishing for a long time and want to provide you with our experiences to make your fishing experience more enjoyable. From time to time, we will have special guests that will go into other types of outdoor sports like Hunting and Fly Fishing. We also like to smoke some food as well. </p>
+
+</div>
+
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
+
+<p>{% include feature_row %}</p>
 
 </div>
 
