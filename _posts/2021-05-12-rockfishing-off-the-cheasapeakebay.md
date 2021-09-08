@@ -5,7 +5,7 @@ author: Billy Rick
 comments: true
 categories:
   - blog
-  - fishing trip
+  - fishingtrip
 tags:
   - Fishing off the Rappahannock  
 ---
