@@ -5,10 +5,9 @@ author: Billy Rick
 comments: true
 categories:
   - blog
+  - fishing trip
 tags:
-  - Fishing Knots
-  - Fishing
-  - Fishing for Beginners
+  - Fishing off the Rappahannock  
 ---
 
 Hey Hoggerz! This is Fast Freddie with Big Daddy Adam. I wanted to share with you all of our trip with made last year on the Rappahannock river for rock fish. It was a cold day but worth it, because as you can see from our pictures, we caught some fish.
