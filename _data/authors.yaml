@@ -4,16 +4,25 @@ Billy Rick:
   name        : "Fred Win aka Fast Freddie"
   bio         : "What do you want, jewels? I am a very extravagant man."
   avatar      : "/assets/images/2021-09-07_19-45-07.jpg"
-  
+  links:    
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/reelhoggzfishing"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://instagram.com/@reelhoggzfishing"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
+John Spinella:
+  name        : "John Spinella aka SpinMan"
   bio         : "I ordered what?"
   avatar      : "/assets/images/bio-photo.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
+      url: "mailto:jrspinella@live.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+      url: "https://twitter.com/reelhoggzfishing"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://instagram.com/@reelhoggzfishing"
