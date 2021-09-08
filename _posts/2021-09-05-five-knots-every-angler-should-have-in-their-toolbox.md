@@ -10,4 +10,4 @@ Spin the hook five or six times, holding both the main line and the tag end, to 
 
 Take a look at the picture to get a better understanding:
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2021-09-07_20-02-23.jpg" alt="">{% endraw %}
+[![Foo]("/assets/images/2021-09-07_20-02-23.jpg")
