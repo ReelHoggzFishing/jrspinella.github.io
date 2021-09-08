@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /about
+permalink: /about/
 comments: true
 ---
 
