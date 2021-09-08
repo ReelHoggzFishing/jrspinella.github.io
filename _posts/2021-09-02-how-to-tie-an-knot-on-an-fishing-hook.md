@@ -28,16 +28,17 @@ To view my full video on our YouTube Channel: [click here](https://www.youtube.c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kqFTDsK3Ymw" title="How to tie an knot on an fishing hook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-To subscribe to Reel Hoggz Fishing YouTube Channel, [click here](https://www.youtube.com/embed/kqFTDsK3Ymw?sub_confirmation=1)
+
+To keep informed on all thing fishing, hunting, Fly Fishing or smoking meats, subscribe to Reel Hoggz Fishing YouTube Channel, [click here](https://www.youtube.com/embed/kqFTDsK3Ymw)
 
 Check out our Favorite Options for Fishing Line!
-https://kit.co/jrspinella/fishing-line-kit
+[Click Here](https://kit.co/jrspinella/fishing-line-kit)
 
 Check out our Options for Fishing Beginners!
-https://kit.co/jrspinella/fishing-rod-kit
+[Click Here](https://kit.co/jrspinella/fishing-rod-kit)
 
-Follow us on Instagram @ https://www.instagram.com/reelhoggzfishing/
+Follow us on Instagram @ [https://www.instagram.com/reelhoggzfishing/](https://www.instagram.com/reelhoggzfishing/)
 
-Follow us on TikTok @ https://www.tiktok.com/@reelhoggzfishing?lang=en
+Follow us on TikTok @ [https://www.tiktok.com/@reelhoggzfishing?lang=en](https://www.tiktok.com/@reelhoggzfishing?lang=en)
 
-Want to understand your youtube channel better, Check out Tube Buddy - https://www.tubebuddy.com/reelhoggzfishing
+Want to understand your youtube channel better, Check out Tube Buddy - [https://www.tubebuddy.com/reelhoggzfishing](https://www.tubebuddy.com/reelhoggzfishing)
