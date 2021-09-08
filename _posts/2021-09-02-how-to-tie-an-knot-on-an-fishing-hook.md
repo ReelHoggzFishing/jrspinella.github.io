@@ -29,3 +29,15 @@ To view my full video on our YouTube Channel: [click here](https://www.youtube.c
 
 
 To subscribe to Reel Hoggz Fishing YouTube Channel, [click here](https://www.youtube.com/embed/kqFTDsK3Ymw?sub_confirmation=1)
+
+Check out our Favorite Options for Fishing Line!
+https://kit.co/jrspinella/fishing-line-kit
+
+Check out our Options for Fishing Beginners!
+https://kit.co/jrspinella/fishing-rod-kit
+
+Follow us on Instagram @ https://www.instagram.com/reelhoggzfishing/
+
+Follow us on TikTok @ https://www.tiktok.com/@reelhoggzfishing?lang=en
+
+Want to understand your youtube channel better, Check out Tube Buddy - https://www.tubebuddy.com/reelhoggzfishing
