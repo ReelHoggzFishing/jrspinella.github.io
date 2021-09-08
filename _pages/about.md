@@ -5,25 +5,20 @@ comments: true
 feature_row:
   - image_path: /assets/images/fishjump.jpg
     alt: "customizable"
-    title: "Fishing"
-    excerpt: "We tech the everyday fisherman about the basics and how to use our experiences to become a better angler"
-    url: "/tags/#fishing"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    title: "Fred Win"
+    excerpt: "Fred has been fishing for over 30 years. His talents include fishing guide, knots, rods/reels and river fishing"    
   - image_path: /assets/images/photo-1493787039806-2edcbe808750.jpg
     alt: "fully responsive"
-    title: "Hunting/Fly Fishing"
-    excerpt: "Talk about the basics in hunting and fly fishing with enaging videos and posts"
-    url: "/tags/#flyfishing"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    title: "Adam Weatherington"
+    excerpt: "Talk about the basics in hunting and fly fishing with enaging videos and posts"    
   - image_path: /assets/images/smoke-1377017975dW3.jpg
     alt: "100% free"
-    title: "Smoking Meats"
-    excerpt: "Learn how to smoke meats with a smoker"
-    url: "/tags/#smoking"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    title: "John Spinella"
+    excerpt: "Learn how to smoke meats with a smoker"     
+  - image_path: /assets/images/smoke-1377017975dW3.jpg
+    alt: "100% free"
+    title: "John Winkler"
+    excerpt: "Learn how to smoke meats with a smoker"        
 ---
 
 <div class="row justify-content-between">
@@ -35,6 +30,8 @@ feature_row:
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
+
+<h3>Reel Hoggz Content Providers</h3>
 
 <p>{% include feature_row %}</p>
 
