@@ -105,7 +105,7 @@ Also, please share this post if you find it beneficial for others.
 <div class="sticky-top sticky-top-80">
 <p>To keep informed on all thing fishing, hunting, Fly Fishing or smoking meats, subscribe to Reel Hoggz Fishing YouTube Channel, <a target="_blank" href="ttps://www.youtube.com/embed/kqFTDsK3Ymw">Click Here  <i class="fab fa-youtube"></i></a></p>
 
-This is my beginners smoking kit
+<p>This is my beginners smoking kit
 <a target="_blank" href="https://kit.co/reelhoggzfishing/smoking-kit">Click Here  <i class="fab fa-browser"></i></a></p>
 
 <p>Check out our Favorite Options for Fishing Line!
