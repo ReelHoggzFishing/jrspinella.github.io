@@ -16,17 +16,18 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <p>To keep informed on all thing fishing, hunting, Fly Fishing or smoking meats, subscribe to Reel Hoggz Fishing YouTube Channel, [click here](https://www.youtube.com/embed/kqFTDsK3Ymw)</p>
 
-<p>heck out our Favorite Options for Fishing Line!
-[Click Here](https://kit.co/jrspinella/fishing-line-kit)</p>
+<p>Check out our Favorite Options for Fishing Line!
+<a target="_blank" href="https://kit.co/jrspinella/fishing-line-kit">Click Here<i class="fab fa-github"></p>
 
 <p>Check out our Options for Fishing Beginners!
-[Click Here](https://kit.co/jrspinella/fishing-rod-kit)</p>
+<a target="_blank" href="https://kit.co/jrspinella/fishing-rod-kit">Click Here<i class="fab fa-github">
+</p>
 
-<p>Follow us on Instagram @ [https://www.instagram.com/reelhoggzfishing/](https://www.instagram.com/reelhoggzfishing/)</p>
+<p>Follow us on Instagram @ <a target="_blank" href="https://www.instagram.com/reelhoggzfishing/">Click Here<i class="fab fa-instagram"></p>
 
-<p>Follow us on TikTok @ [https://www.tiktok.com/@reelhoggzfishing?lang=en](https://www.tiktok.com/@reelhoggzfishing?lang=en)</p>
+<p>Follow us on TikTok @ <a target="_blank" href="https://www.tiktok.com/@reelhoggzfishing?lang=en">Click Here<i class="fab fa-tiktok"></p>
 
-<p>Want to understand your youtube channel better, Check out Tube Buddy - [https://www.tubebuddy.com/reelhoggzfishing](https://www.tubebuddy.com/reelhoggzfishing)</p>
+<p>Want to understand your youtube channel better, Check out Tube Buddy - <a target="_blank" href="https://www.tubebuddy.com/reelhoggzfishing](https://www.tubebuddy.com/reelhoggzfishing">Click Here<i class="fab fa-web"></p>
 
 </div>
 </div>
