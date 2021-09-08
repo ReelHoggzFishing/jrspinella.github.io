@@ -1,3 +1,15 @@
+---
+title: "Five Knots that every angler should have in their toolbox"
+date: 2021-09-05T15:34:30-04:00
+author: Billy Rick
+categories:
+  - blog
+tags:
+  - Fishing Knots
+  - Fishing
+  - Fishing for Beginners
+---
+
 Hey Hoggerz! Fast Freddie here again. I am continuing this series of posts on knots. 
 
 There are alot o dang knots, thousands of them. Fortunately for you anglers, just a few are required for our needs. You should try to have at least 8 to 10 knots in your repertoire, but if you only have time to learn 5 of them, these are the ones I'd pick. Everybody has a favorites. Your top five may differ significantly from mine, but at least two or three of the following you should learn.
