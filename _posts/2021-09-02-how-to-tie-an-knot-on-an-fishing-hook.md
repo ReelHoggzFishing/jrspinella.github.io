@@ -10,7 +10,7 @@ tags:
   - Fishing for Beginners
 ---
 
-Hello Hoggerz! This is John to talk to you about tieing a knot on a hook. This is one of the most basic things to do when you want to go fishing. Without a line, you can't catch fish. I will go over the basics in tying this knot. For beginners, this is a quick and simple knot for your fishing adventures. For decades, this has been my go-to knot, I call it the "Easy Freddie Knot" You'll be able to tie this in the blindfolded with some practice!
+Hello Hoggerz! This is Fast Freddie to talk to you about tying a knot on a hook. This is one of the most basic things to do when you want to go fishing. Without a line, you can't catch fish. I will go over the basics in tying this knot. For beginners, this is a quick and simple knot for your fishing adventures. For decades, this has been my go-to knot, I call it the "Easy Freddie Knot" You'll be able to tie this in the blindfolded with some practice!
 
 1. Run the tag end of the line through the eye of the hook and pull 8–10 inches of line through the hook eye.
 2. Then take the tag end an push it through the eye of the hook again until it make a large loop.

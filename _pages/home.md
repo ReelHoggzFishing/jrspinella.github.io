@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-YouTube'></i> View Now"
       url: "https://www.youtube.com/channel/UChclrvntKn_uJeiMVxy5XUw/"
 excerpt: >
-  Learn about Fishing, Hunting or Smoking meat? New videos every week on YouTube. 
+  Learn about Fishing, Hunting or Smoking meat! New videos every week on YouTube. 
 feature_row:
   - image_path: /assets/images/fishjump.jpg
     alt: "customizable"
