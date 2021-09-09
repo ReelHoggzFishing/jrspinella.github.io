@@ -1,0 +1,20 @@
+{
+    "frontMatter.content.folders": [
+        {
+            "title": "_pages",
+            "fsPath": "/Users/johnspinella/repos/jrspinella.github.io/_pages",
+            "paths": [
+                "/Users/johnspinella/repos/jrspinella.github.io/_pages",
+                "\\Users\\johnspinella\\repos\\jrspinella.github.io\\_pages"
+            ]
+        },
+        {
+            "title": "_posts",
+            "fsPath": "/Users/johnspinella/repos/jrspinella.github.io/_posts",
+            "paths": [
+                "/Users/johnspinella/repos/jrspinella.github.io/_posts",
+                "\\Users\\johnspinella\\repos\\jrspinella.github.io\\_posts"
+            ]
+        }
+    ]
+}
