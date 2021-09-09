@@ -5,5 +5,7 @@ main:
     url: /tags/
   - title: "Products"
     url: /products/
+  - title: "Terms of Use"
+    url: /terms/
   - title: "About Us"
     url: /about/
