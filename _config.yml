@@ -36,12 +36,12 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-disqusshortname: "reelhoggzfishing"
+disqusshortname: "www-reelhoggzfishing-com"
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "reelhoggzfishing"
+    shortname            : "www-reelhoggzfishing-com"
 
 include:
   - _pages
