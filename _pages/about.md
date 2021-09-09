@@ -3,22 +3,22 @@ title: About Us
 permalink: /about/
 comments: true
 feature_row:
-  - image_path: /assets/images/fishjump.jpg
+  - image_path: /assets/images/2021-09-09_08-50-55_fred.jpg
     alt: "customizable"
-    title: "Fred Win"
+    title: "Fred Williams"
     excerpt: "Fred has been fishing for over 30 years. His talents include fishing guide, knots, rods/reels and river fishing"    
-  - image_path: /assets/images/photo-1493787039806-2edcbe808750.jpg
+  - image_path: /assets/images/2021-09-09_08-47-54_adam.jpg
     alt: "fully responsive"
     title: "Adam Weatherington"
-    excerpt: "Talk about the basics in hunting and fly fishing with enaging videos and posts"    
-  - image_path: /assets/images/smoke-1377017975dW3.jpg
+    excerpt: "Adam has been fishing since he was 8 years old. Loves the outdoors and having fun!"    
+  - image_path: /assets/images/2021-09-09_08-53-56_johnS.jpg
     alt: "100% free"
     title: "John Spinella"
-    excerpt: "Learn how to smoke meats with a smoker"     
-  - image_path: /assets/images/smoke-1377017975dW3.jpg
+    excerpt: "John is a beginner smoker and fisherman. He goes fly fishing with his Brother in law John Winkler aka TroutWink."     
+  - image_path: /assets/images/2021-09-09_08-56-24_johnw.jpg
     alt: "100% free"
     title: "John Winkler"
-    excerpt: "Learn how to smoke meats with a smoker"        
+    excerpt: "John is a expert fly fisherman. He love the outdoors. He hunts for quil and doves on occasion"        
 ---
 
 <div class="row justify-content-between">
