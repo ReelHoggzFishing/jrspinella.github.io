@@ -11,11 +11,13 @@
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: " en" }}" class="no-js">
 
-<head>
+<head>  
   {% include head.html %}
   {% include head/custom.html %}
 
+  <title>{{ page.title }} | {{site.name}}</title>
   {% seo %}
+
   <script data-ad-client="ca-pub-3636484839501487" async
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
