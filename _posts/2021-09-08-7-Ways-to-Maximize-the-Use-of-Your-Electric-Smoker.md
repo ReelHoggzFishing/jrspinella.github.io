@@ -99,6 +99,11 @@ I hope you've liked my list of the top 7 tips for smoking like a pro with your e
 
 Also, please share this post if you find it beneficial for others.
 
+To view my full review video on our YouTube Channel: [click here](https://youtu.be/0VxaQ15LLjs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0VxaQ15LLjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Other Links
 <div class="col-md-4">
 
