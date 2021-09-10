@@ -45,7 +45,7 @@ Also, please share this post if you find it beneficial for others.
 
 To view my full review video on our YouTube Channel: [click here](https://www.youtube.com/watch?v=kqFTDsK3Ymw&t=36s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SdhTJNHqE_0" title="Is it worth it? Charbroil Electric Smoker Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SdhTJNHqE_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="col-md-4">
 
