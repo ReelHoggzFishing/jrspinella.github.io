@@ -2,6 +2,7 @@
 title: "Is it worth it? Charbroil Electric Smoker Review"
 date: 2021-09-08T15:34:30-04:00
 author: John Spinella
+comments: true
 categories:
   - blog
 tags:
