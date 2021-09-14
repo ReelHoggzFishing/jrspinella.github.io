@@ -16,5 +16,15 @@
                 "\\Users\\johnspinella\\repos\\jrspinella.github.io\\_posts"
             ]
         }
+    ],
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "_pages",
+            "path": "[[workspace]]/_pages"
+        },
+        {
+            "title": "_posts",
+            "path": "[[workspace]]/_posts"
+        }
     ]
 }
