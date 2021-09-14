@@ -92,7 +92,7 @@ author:
       url: "https://www.tiktok.com/@reelhoggzfishing?lang=en"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/reelhoggzfishing"
+      url: "https://instagram.com/reelhoggz"
 
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
@@ -112,7 +112,7 @@ footer:
       url: "https://www.tiktok.com/@reelhoggzfishing?lang=en"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/reelhoggzfishing"
+      url: "https://instagram.com/reelhoggz"
 
 defaults:
   # _posts
